@@ -1,15 +1,12 @@
-### 👋   Hi there, my name is Tuma, I'm an English PhD candidate turned full-stack web developer. 
+# 👋   Hi there, my name is Tuma, I'm an English PhD candidate turned full-stack web developer. #
 
 ### I am finishing up a full-stack web development bootcamp ###  through LaunchCode in St. Louis. 
 
 I am currently teaching myself the MERN stack while continuing to focus on Java and JavaScript fundamentals. 
 
-<!--
-**tussiri/tussiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on:
+-       finishing up my portfolio site
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -17,6 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 JavaScript  CSS  HTML  Java  React  Spring  NodeJS  MySQL  TypeScript  Angular  Jasmine  Git
