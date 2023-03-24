@@ -9,7 +9,7 @@ I am currently teaching myself the MERN stack while continuing to focus on Java 
 
 * 🔭 I’m currently working on: 
     * finishing up my portfolio site
-      * Repo can be found [here](https://github.com/tussiri/portfolio-site-rebuild)
+      * Repo can be found [here](https://github.com/tussiri/portfolio_v3)
       * Live site is coming soon
     * Designing a web application that utilizes OpenAI's API, and Goodreads API (Very early stages)
     * Designing a full-stack website template for a property managemant company.
