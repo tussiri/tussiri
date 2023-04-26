@@ -48,8 +48,3 @@ I am currently teaching myself the MERN stack while continuing to focus on Java 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-
-
-# Github Stats
-![Tuma's Github Stats](https://github-readme-stats.vercel.app/api?username=tussiri&theme=dark&show_icons=true)
-![Tuma's Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=tussiri&layout=compact) 
