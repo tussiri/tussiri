@@ -2,9 +2,8 @@
 
 ## 👋   Hi there, my name is Tumaini Ussiri, I'm an English PhD candidate turned full-stack web developer. 
 
-### I am finishing up a full-stack web development bootcamp through LaunchCode in St. Louis, (which is why my repositories may seem a little scattered and unfinished).
-
-I am currently teaching myself the MERN stack while continuing to focus on Java and JavaScript fundamentals. 
+### I just finished a full-stack web development bootcamp through LaunchCode in St. Louis, and I'm looking for entry level backend software engineering work.
+ 
 Check out my portfolio website: www.tumainidussiri.com
 
 * 🔭 I’m currently working on: 
