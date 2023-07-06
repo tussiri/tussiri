@@ -8,18 +8,16 @@ I am currently teaching myself the MERN stack while continuing to focus on Java 
 Check out my portfolio website: www.tumainidussiri.com
 
 * 🔭 I’m currently working on: 
-    * Designing a web application that utilizes OpenAI's API, and Goodreads API (Very early stages)
-    * Designing a full-stack website template for a property managemant company.
+    * AWS Cloud Practitioner Certification
+    * Refining Capstone and Vaccination Records application
 - 🌱 I’m currently learning:
-    * Java
-    * MySQL
-    * Angular
-    * MERN stack
+    * AWS
+    * SQL
+    * Python and Machine Learning
 - 💬 Ask me about my dissertation
 ## 2023 Goals:
-* Attend meetups
-* Design and build a 3 full-stack web apps targetting specific business needs
-* Finish React certification courses
+* Design and build 3 full-stack web apps including documentation
+* AWS Certification
 * Contribute to an open source project
 
 # SKILLS
